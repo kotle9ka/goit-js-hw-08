@@ -1,0 +1,1 @@
+import template from "./src/template.hbs"

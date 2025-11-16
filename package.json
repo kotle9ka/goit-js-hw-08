@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "handlebars": "^4.7.8",
+    "parcel": "^2.16.1"
+  },
+  "name": "goit-js-hw-08",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html --dist-dir build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kotle9ka/goit-js-hw-08.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kotle9ka/goit-js-hw-08/issues"
+  },
+  "homepage": "https://github.com/kotle9ka/goit-js-hw-08#readme"
+}
